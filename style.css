@@ -1,11 +1,11 @@
 #clock {
   height: 200px;
   width: 700px;
-  background-color: #024546;
   color: white;
   margin: 200px auto;
-  font-size: 80px;
+  font-size: 90px;
   text-align: center;
   padding-top: 200px;
   padding-bottom: 100px;
-  font-family: 'Alegreya SC', serif; }
+  font-family: 'Lobster', cursive;
+  font-weight: bolder; }
