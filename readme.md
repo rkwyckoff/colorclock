@@ -4,4 +4,5 @@
 3.
 4.
 5. Create a repo on github for this project and pushed new code to it
-6. gitHub link is https://github.com/rkwyckoff/colorclock020617/tree/gh-pages
+
+[View the live site](https://rkwyckoff.github.io/colorclock020617/)
